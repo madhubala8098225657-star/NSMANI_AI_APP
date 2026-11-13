@@ -1,44 +1,56 @@
-# NSMANI_AI_APP
-MY Personal  AI App
 N.S.MANI.AI.APP
 
-My Personal AI Assistant 🚀
+Your Personal AI Assistant – Tamil + English
 
-Welcome to N.S.MANI.AI.APP – Your Personal All-in-One AI Assistant.
+Welcome to N.S.MANI.AI.APP!
 
-🌟 Features
+An all-in-one AI assistant designed to help with everyday tasks, creativity, productivity and AI-powered conversations.
 
-- 🤖 AI Personal Assistant
-- 💬 Tamil + English Chat
-- 🎨 AI Image Generation
-- 🎬 AI Video Creation
-- 🧠 Smart AI Responses
-- 📱 Mobile Friendly Design
-- ⚡ Fast AI Assistance
+Main Features
 
-🌐 Languages
+- AI Chat Assistant
+- Tamil and English Language Support
+- AI Writing Assistant
+- AI Image Generation
+- AI Video Creation Support
+- Personal Assistant
+- Smart Question & Answer
+- Mobile-Friendly Interface
 
-- Tamil
-- English
+Technology
 
-🔑 AI Connection
+- HTML
+- CSS
+- JavaScript
+- OpenAI API
+- GitHub
 
-Supports OpenAI API integration.
+Project Structure
 
-Security: Never publish your private API key in public GitHub files.
+- "Index.html" – Main application
+- "Intex.html" – Additional application page
+- "README.md" – Project information
 
-👨‍💻 Project
+Setup
 
-App Name: N.S.MANI.AI.APP
+1. Open the project.
+2. Configure the backend API securely.
+3. Connect your OpenAI API key through the backend.
+4. Test the application.
+5. Deploy the application.
 
-Developer: N.S. MANI
+Security
 
-Platform: Web / Android
+Never publish your private OpenAI API key in HTML, JavaScript or GitHub.
 
-🎯 Mission
+Use a secure backend to handle API requests.
 
-To create a powerful personal AI assistant with multiple AI capabilities in one place.
+Project Name
 
----
+N.S.MANI.AI.APP
 
-© 2026 N.S.MANI.AI.APP. All Rights Reserved.
+Version: 1.0
+
+Languages: Tamil + English
+
+Developer: N.S.MANI
